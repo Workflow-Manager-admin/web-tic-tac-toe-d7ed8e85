@@ -24,7 +24,7 @@ function App() {
           onClick={toggleTheme}
           aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
         >
-          {theme === 'light' ? '🌙 Dark' : '☀️ Light'}
+          {theme === 'light' ? '🌙 Darkey' : '☀️ Light'}
         </button>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
